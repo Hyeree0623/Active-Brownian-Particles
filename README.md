@@ -155,4 +155,4 @@ This allows efficient simulations of several thousand particles.
 Using GCC:
 
 ```bash
-gcc -O3 -lm ABP.c -o ABP
+gcc -lm ABP.c -o ABP.x
